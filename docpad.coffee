@@ -10,7 +10,7 @@ module.exports =
       date: "20 de Abril"
       price: "R$ 0,00"
       venue: "Casa de Cultura Mario Quintana (A ser confirmado)"
-      address: "R. dos Andradas, 736 (andar e sala?)"
+      address: "R. dos Andradas, 736"
       city: "Porto Alegre"
       state: "Rio Grande do Sul"
 
