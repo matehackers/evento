@@ -12,7 +12,7 @@ module.exports =
       venue: "Casa de Cultura Mario Quintana (A ser confirmado)"
       address: "R. dos Andradas, 736"
       city: "Porto Alegre"
-      state: "Rio Grande do Sul"
+      state: "RS"
 
     # Site info
     site:
