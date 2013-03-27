@@ -5,14 +5,14 @@ module.exports =
 
     # Conference info
     conf:
-      name: "Conference name"
-      description: "Conference description"
-      date: "November 15"
-      price: "$100"
-      venue: "Coco Bongo"
-      address: "Boulevard Kukulcan, 30"
-      city: "Cancún"
-      state: "Quintana"
+      name: "Hardware Freedom Day"
+      description: "O Hardware Freedom Day, ou Dia do Hardware Livre, é uma celebração anual do Hardware Livre (hardware eletrônico projetado e oferecido da mesma maneira que um software de código livre). Nesse dia vamos oferecer a comunidade oficinas e palestras de eletrônica, arduino e mais. Você não precisa de nenhum conhecimento prévio para participar. Basta ter vontade de aprender."
+      date: "20 de Abril"
+      price: "R$ 0,00"
+      venue: "Casa de Cultura Mario Quintana (A ser confirmado)"
+      address: "R. dos Andradas, 736 (andar e sala?)"
+      city: "Porto Alegre"
+      state: "Rio Grande do Sul"
 
     # Site info
     site:
@@ -30,18 +30,18 @@ module.exports =
       'schedule'
       'sponsors'
       'partners'
-      #'contact'
+      'contact'
     ]
 
     # Labels which you can translate to other languages
     labels:
-      about: "About"
-      location: "Location"
-      speakers: "Speakers"
-      schedule: "Schedule"
-      sponsors: "Sponsors"
-      partners: "Partners"
-      contact: "Contact"
+      about: "Sobre"
+      location: "Localização"
+      speakers: "Palestrantes"
+      schedule: "Agenda"
+      sponsors: "Patrocinadores"
+      partners: "Parceiros"
+      contact: "Contato"
 
     # The entire schedule
     schedule: [
