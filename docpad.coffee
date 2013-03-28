@@ -8,7 +8,7 @@ module.exports =
       name: "Hardware Freedom Day"
       description: "O Hardware Freedom Day, ou Dia do Hardware Livre, é uma celebração anual do Hardware Livre (hardware eletrônico projetado e oferecido da mesma maneira que um software de código livre). Nesse dia vamos oferecer a comunidade oficinas e palestras de eletrônica, arduino e mais. Você não precisa de nenhum conhecimento prévio para participar. Basta ter vontade de aprender."
       date: "20 de Abril"
-      price: "R$ 0,00"
+      price: "Entrada Franca"
       venue: "Casa de Cultura Mario Quintana no 5o andar"
       address: "R. dos Andradas, 736"
       city: "Porto Alegre"
