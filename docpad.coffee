@@ -9,16 +9,16 @@ module.exports =
       description: "O Hardware Freedom Day, ou Dia do Hardware Livre, é uma celebração anual do Hardware Livre (hardware eletrônico projetado e oferecido da mesma maneira que um software de código livre). Nesse dia vamos oferecer a comunidade oficinas e palestras de eletrônica, arduino e mais. Você não precisa de nenhum conhecimento prévio para participar. Basta ter vontade de aprender."
       date: "20 de Abril"
       price: "R$ 0,00"
-      venue: "Casa de Cultura Mario Quintana (A ser confirmado)"
-      address: "R. dos Andradas, 736"
+      venue: "Casa de Cultura Mario Quintana"
+      address: "R. dos Andradas, 736 5o Andar"
       city: "Porto Alegre"
       state: "RS"
 
     # Site info
     site:
       theme: "yellow-swan"
-      url: "http://confboilerplate.com"
-      googleanalytics: "UA-33656081-1"
+      url: "http://matehackers.github.com/evento"
+      #googleanalytics: "TODO"
 
     # Active sections on the website
     # to deactivate comment out with '#'
@@ -26,7 +26,7 @@ module.exports =
     sections: [
       'about'
       'location'
-      'speakers'
+      #'speakers'
       'schedule'
       'sponsors'
       'partners'
@@ -45,88 +45,46 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Check-in / Breakfast"
+      name: "Recepção"
       time: "9h00"
     ,
-      name: "Linus Torvalds"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Linux Foundation"
-      twitter: "linus"
+      name: "Juliano Webtronico"
+      photo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
+      bio: "Juliano é empresário da área de eletrônicos e membro do Matehackers."
+      company: "Webtronico"
+      twitter: "webtronicobr"
       presentation:
-        title: "Digging into a Linux Kernel"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Oficina de solda de componentes eletrônicos PTH e SMD"
+        description: "Abordagem teórica e prática referente a materiais, ferramentas e técnicas utilizadas para soldar e dessoldar componentes eletrônicos em geral com exemplos práticos. Tópicos: Materiais:como usar estanho, fluxo, pasta, salva chip, álcool isopropílico, limpa fluxo, malha de cobre; Ferramentas: como usar ferro de solda, estação de solda, soprador, sugador, pinça, esponja metálica, esponja vegetal; Técnicas: como soldar e dessoldar componentes eletrônicos PTH (Plated Through Hole) e SMD (Surface Mount Devices), estanhar, limpar e retrabalhar placas; Exemplos práticos de todos os assuntos abordados."
         time: "10h00"
     ,
-      name: "Bill Gates"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
-      twitter: "billy95"
+      name: "Juliano Webtronico"
+      photo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
+      bio: "Juliano é empresário da área de eletrônicos e membro do Matehackers."
+      company: "Webtronico"
+      twitter: "webtronicobr"
       presentation:
-        title: "Introducing Windows 12"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Oficina de solda e montagem do Mateduino Nibiru (placa similar ao Arduino UNO)"
+        description: "(Sem pré requisitos. Desejável conhecimento em soldar componentes para quem comprar o kit) Montagem completa de uma placa Mateduino Nibiru, mostrando técnicas de solda, montagem e identificação de componentes eletrônicos. Será possível comprar o kit do Mateduino Nibiru pelo preço promocional de R$30,00 e fazer a montagem durante a oficina. Tópicos: Identificação de valores dos resistores; Identificação de valores dos capacitores; Posicionamento dos componentes na placa; Soldando os componentes na placa; Teste de funcionamento da placa;"
         time: "11h00"
     ,
-      name: "Lunch"
+      name: "Intervalo para almoço"
       time: "12h00"
-    ,
-      name: "Chuck Norris"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Delta Command"
-      twitter: "littlechuck"
-      presentation:
-        title: "How to kill a elephant with one finger"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "13h00"
-    ,
-      name: "Steve Jobs"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Apple, Inc."
-      twitter: "stevie"
-      presentation:
-        title: "Presenting iPad"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "14h00"
-    ,
-      name: "Coffee-break"
-      time: "15h00"
-    ,
-      name: "Mark Zuckerberg"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Facebook"
-      twitter: "zuck"
-      presentation:
-        title: "Revealing Facebook Secrets"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "16h00"
-    ,
-      name: "Steve Wozniak"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Apple, Inc."
-      twitter: "woz"
-      presentation:
-        title: "Why do I prefer Android over iPhone"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "17h00"
     ]
 
     # List of Sponsors
     sponsors: [
-      name: "Eventick"
-      logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
-      url: "http://eventick.com.br"
     ]
 
     # List of Partners
     partners: [
-      name: "BrazilJS"
-      logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-      url: "http://braziljs.org"
+      name: "Webtronico"
+      logo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
+      url: "http://webtronico.com"
+    ,
+      name: "Casa de Cultura Digital Porto Alegre"
+      logo: "https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg"
+      url: "http://casadaculturadigital.com.br/poa"
     ]
 
     # Theme path
