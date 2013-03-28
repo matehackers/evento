@@ -1,17 +1,4 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
-<p>Use o formulario abaixo para entrar em contato com a organização do evento.</p>
-<form method="post" action="contact.php" id="form" class="form">
-  <div class="control-group control-group-name">
-    <label for="name">Name</label>
-    <input type="text" name="name" id="name" placeholder="Your name">
-  </div>
-  <div class="control-group control-group-email">
-    <label for="email">E-mail</label>
-  <input type="email" name="email" id="email" placeholder="Your e-mail">
-  </div>
-  <div class="control-group">
-    <label for="message">Message</label>
-  <textarea name="" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
-  </div>
-  <input class="btn btn-send" type="submit" value="Send">
-</form>
+<p>Para entrar em contato com a organização do evento envie um email para <u>matehackers@googlegroups.com</u></p>
+
+<p>Saiba mais sobre o Matehackers em <a href="http://matehackers.org">http://matehackers.org</a></p>

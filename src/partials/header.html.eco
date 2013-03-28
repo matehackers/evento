@@ -10,8 +10,8 @@
     </h1>
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
-      <span class="price">De graça!!! <%= @conf.price %></span>
-      <a href="" class="call-action-link" title="Inscreva-se">Inscreva-se agora!</a>
+      <span class="price"><%= @conf.price %></span>
+      <a href="" class="call-action-link" title="Registre-se">Registre-se em breve!</a>
     </div>
   </div>
 </header>

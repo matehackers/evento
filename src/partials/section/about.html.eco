@@ -1,4 +1,7 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
+
+<img src="http://www.hfday.org/images/hfd-banner3.png" alt="banner-hfd-2013" style="float:right;padding:5px;"/>
+
 <p itemprop="description">Junte-se ao pessoal do <a href="http://matehackers.org">Matehackers</a> e da <a href="https://www.facebook.com/ccdpoa">Casa da Cultura Digital</a> e venha participar de um evento cheio de oficinas e palestras. Teremos durante todo dia oficinas introdutórias de Arduino e eletrônica, bem como outras oficinas mais avançadas focadas no desenvolvimento de plataformas de Hardware Livre. Também serão oferecidas palestras sobre os diversos projetos desenvolvidos dentro do Matehackers, sobre hackerspaces e cultura livre em geral!</p>
 
 <p><strong>O evento ainda esta sendo programado, fique atento para atualizações.</strong>
