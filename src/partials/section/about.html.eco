@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description">Junte-se ao pessoal do <a href="http://matehackers.org">Matehackers</a> e da <a href="https://www.facebook.com/ccdpoa">Casa da Cultura Digital</a> e venha participar de um evento cheio de oficinas e palestras. Teremos durante todo dia oficinas introdutórias de Arduino e eletrônica, bem como outras oficinas mais avançadas focadas no desenvolvimento de plataformas de Hardware Livre. Também serão oferecidas palestras sobre os diversos projetos desenvolvidos dentro do Matehackers, sobre hackerspaces e cultura livre em geral!</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p><strong>O evento ainda esta sendo programado, fique atento para atualizações.</strong>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p><strong>Em breve as inscrições serão abertas.</strong></p>

@@ -10,9 +10,9 @@ function initialize() {
 
     var latlng = new google.maps.LatLng(0, 0),
         myOptions = {
-            zoom: 16,
+            zoom: 14,
             center: latlng,
-            scrollwheel: false,
+            scrollwheel: true,
             streetViewControl: true,
             labels: true,
             mapTypeId: google.maps.MapTypeId.ROADMAP
@@ -42,8 +42,9 @@ $(document).ready(function () {
 
                 new google.maps.Marker({
                     map: map,
-                    position: results[0].geometry.location,
-                    icon: icon
+                    draggable: false,
+                    position: results[0].geometry.location
+                    //icon: icon
                 });
             } else {
                 if (console) {
