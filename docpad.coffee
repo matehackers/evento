@@ -70,6 +70,15 @@ module.exports =
     ,
       name: "Intervalo para almoço"
       time: "12h00"
+    ,
+      name: "Alexandre Becker"
+      photo: ""
+      bio: "Alexandre é um dos fundadores do Matehackers, entusiasta e hacker da eletrônica, ele tambem flerta com a área de software."
+      twitter: ""
+      presentation:
+        title: "Oficina de Introdução a Eletrônica e Arduino"
+        description: "Essa é tem como requisito apenas interesse em aprender, serão abordados os seguintes tópicos: *Revisão de circuitos elétricos e eletrônica; *O que é o Arduino; *Arduino Uno; *Apresentação de diversos componentes; *Ambiente de desenvolvimento (software); *Projeto exemplo (blink); *Comunicação serial; *Leitura de entrada digital; *Leitura de entrada analógica; *Hands on."
+        time: "14:00"
     ]
 
     # List of Sponsors
