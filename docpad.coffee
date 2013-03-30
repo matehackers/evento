@@ -26,7 +26,7 @@ module.exports =
     sections: [
       'about'
       'location'
-      #'speakers'
+      'speakers'
       'schedule'
       'sponsors'
       'partners'
@@ -72,9 +72,9 @@ module.exports =
       time: "12h00"
     ,
       name: "Alexandre Becker"
-      photo: ""
-      bio: "Alexandre é um dos fundadores do Matehackers, entusiasta e hacker da eletrônica, ele tambem flerta com a área de software."
-      twitter: ""
+      photo: "https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"
+      bio: "Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de também flertar com a área de software."
+      company: "Matehackers"
       presentation:
         title: "Oficina de Introdução a Eletrônica e Arduino"
         description: "Essa é tem como requisito apenas interesse em aprender, serão abordados os seguintes tópicos: *Revisão de circuitos elétricos e eletrônica; *O que é o Arduino; *Arduino Uno; *Apresentação de diversos componentes; *Ambiente de desenvolvimento (software); *Projeto exemplo (blink); *Comunicação serial; *Leitura de entrada digital; *Leitura de entrada analógica; *Hands on."
