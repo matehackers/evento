@@ -72,7 +72,7 @@ module.exports =
       time: "12h00"
     ,
       name: "Alexandre Becker"
-      photo: "http://api.ning.com/files/TnyFdD9AJe8e22RagBx83L7J3dzsC0P6u7J7cTEiIukfVCLskn0wli7jOpTATrak3EzuIpnAKTlwjcKxI9X33jISc29D55aU/463123152.jpeg?xgip=0%3A0%3A183%3A183%3B%3B&width=184&height=184&crop=1%3A1"
+      photo: "https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"
       bio: "Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de também flertar com a área de software."
       company: "Matehackers"
       presentation:
