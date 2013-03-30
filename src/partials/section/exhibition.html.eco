@@ -15,7 +15,7 @@
     <% end %>
     <h1 class="exhibition-name"><%= exhibition.name %></h1>
     <p class="exhibition-description"><%= exhibition.description %></p>
-    <span class="btn"><a class="discover-link" href="<%= exhibition.url %>">Saiba mais...</a></span>
+    <a class="discover-link" href="<%= exhibition.url %>"><span class="btn">Saiba mais...</span></a>
   </li>
 <% end %>
 </ul>
