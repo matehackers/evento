@@ -1,0 +1,21 @@
+<h2 class="section-title"><%= @labels['exhibition'] %></h2>
+
+<p itemprop="description">Durante todo o evento, teremos no saguão do quinto andar uma exposição com alguns dos projetos do Matehackers e algumas mesas para confraternização e hacks em geral. Por isso, mesmo que você não possa participar de alguma oficina, passe no evento para conferiri o que estamos fazendo e como você pode fazer parte desse movimento.</p>
+
+<p>Além disso, a Webtronico estará presente para vender kits de eltrônica, Arduino e Nibiru com um preço especial.</p>
+
+<p>Veja abaixo alguns projetos que estarão em exibição:</p>
+<ul class="exhibition-list">
+<% for exhibition in @exhibitions: %>
+  <li class="exhibition-item">
+    <% if exhibition.photo: %>
+      <span class="exhibition-photo">
+        <a href="<%= exhibition.url %>"><img class="photo" src="<%= exhibition.photo %>" alt="<%= exhibition.name %>" itemprop="image"></a>
+      </span>
+    <% end %>
+    <h1 class="exhibition-name"><%= exhibition.name %></h1>
+    <p class="exhibition-description"><%= exhibition.description %></p>
+    <span class="btn"><a class="discover-link" href="<%= exhibition.url %>">Saiba mais...</a></span>
+  </li>
+<% end %>
+</ul>

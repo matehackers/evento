@@ -26,6 +26,7 @@ module.exports =
     sections: [
       'about'
       'location'
+      'exhibition'
       'speakers'
       'schedule'
       'sponsors'
@@ -37,6 +38,7 @@ module.exports =
     labels:
       about: "Sobre"
       location: "Localização"
+      exhibition: "Exposição"
       speakers: "Palestrantes"
       schedule: "Agenda"
       sponsors: "Patrocinadores"
@@ -83,6 +85,24 @@ module.exports =
 
     # List of Sponsors
     sponsors: [
+    ]
+
+    # List of Exhibitions
+    exhibitions: [
+      name: "Video Game Matehackers"
+      url: "http://www.matehackers.org/doku.php?id=video_game"
+      description: "Totalmente open source, você constroi todas peças, tem a disposição games como space invaders e pong, e ainda pode programar seus próprios games."
+      photo: "https://lh3.googleusercontent.com/-Su2x1w8mGSE/UOjAig9oo4I/AAAAAAAACPQ/Y29okgNcIbQ/w764-h700-p-o-k/DSCN5203.JPG"
+    ,
+      name: "Impressora PCB"
+      url: "http://www.matehackers.org/doku.php?id=impressora_pcb"
+      description: "Estamos transformando peças de impressoras velhas e estragadas para imprimir placas de circuitos impressos que você para usar em nossos projetos."
+      photo: "https://lh4.googleusercontent.com/-aBhi65ejW60/ULtjNYF7aoI/AAAAAAAAB_0/y120t-tNfPM/w433-h325-p-o-k/DSCN4782.JPG"
+    ,
+      name: "Mateduino Nibiru"
+      url: "http://www.matehackers.org/doku.php?id=mateduino_nibiru"
+      description: "Uma placa microcontrolada criada no Matehackers, inspirada no Arduino e com objetivo de produzir uma placa de baixo custo."
+      photo: "http://www.matehackers.org/lib/exe/fetch.php?w=500&media=wiki:mateduino:mateduino_nibiru_descricao.jpg"
     ]
 
     # List of Partners
