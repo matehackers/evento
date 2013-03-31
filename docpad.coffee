@@ -66,7 +66,7 @@ module.exports =
       company: "Webtronico"
       twitter: "webtronicobr"
       presentation:
-        title: "Oficina de solda e montagem do Mateduino Nibiru (placa similar ao Arduino UNO)"
+        title: "Oficina de solda e montagem do Mateduino Nibiru"
         description: "(Sem pré requisitos. Desejável conhecimento em soldar componentes para quem comprar o kit) Montagem completa de uma placa Mateduino Nibiru, mostrando técnicas de solda, montagem e identificação de componentes eletrônicos. Será possível comprar o kit do Mateduino Nibiru pelo preço promocional de R$30,00 e fazer a montagem durante a oficina. Tópicos: Identificação de valores dos resistores; Identificação de valores dos capacitores; Posicionamento dos componentes na placa; Soldando os componentes na placa; Teste de funcionamento da placa;"
         time: "11h00"
     ,
