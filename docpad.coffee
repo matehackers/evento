@@ -91,7 +91,7 @@ module.exports =
         "Alexandre Becker"
       ]
       photo: ["http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg","https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQianJgfW2kr-V8T7caNJA6FdT9-4KG3J6L57rJa92gHw9DstXHuQ","https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"]
-      bio: ["É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game).","Alan Alan Alan!!!","Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de ta    mbém flertar com a área de software."]
+      bio: ["É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game).","Alan Alan Alan!!! Ele é o cara do Android. Hacker e vigilante do conhecimento, esta sempre pronto para eliminar do mundo as falácias que encontra em seu dia a dia.","Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de ta    mbém flertar com a área de software."]
       company: ["Matehackers"]
       twitter: ["lfzawacki","Hoarf","AlexBkr_"]
       presentation:
@@ -122,9 +122,9 @@ module.exports =
       photo: "http://www.matehackers.org/lib/exe/fetch.php?w=500&media=wiki:mateduino:mateduino_nibiru_descricao.jpg"
     ,
       name: "Jogo Genius"
-      url: ""
+      url: "http://www.matehackers.org/doku.php?id=genius"
       description: "Genius era um brinquedo muito popular na década de 1980 e que buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar. Nós recriamos o game, você pode jogar e se quiser aprender a fazer o seu."
-      photo: ""
+      photo: "http://www.matehackers.org/lib/exe/fetch.php?w=300&media=genius.png"
     ]
 
     # List of Partners
