@@ -16,11 +16,13 @@
           <tr>
             <td class="schedule-time"><%= slot.presentation.time %></td>
             <td class="schedule-slot">
+            <!--
             <% if slot.photo: %>
               <span class="speaker-photo">
                 <img class="photo" src="<%= slot.photo %>" alt="<%= slot.name %>">
               </span>
             <% end %>
+            -->
             <%= slot.presentation.title %> 
               <span class="speakers-company"><%= slot.company %></span>
             </td>

@@ -50,21 +50,21 @@ module.exports =
       name: "Recepção"
       time: "9h00"
     ,
-      name: "Juliano Webtronico"
-      photo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
-      bio: "Juliano é empresário da área de eletrônicos e membro do Matehackers."
-      company: "Webtronico"
-      twitter: "webtronicobr"
+      name: ["Juliano Webtronico"]
+      photo: ["http://www.webtronico.com/image/data/logo_duas_cores_200px.png"]
+      bio: ["Juliano é empresário da área de eletrônica e membro do Matehackers."]
+      company: ["Webtronico"]
+      twitter: ["webtronicobr"]
       presentation:
         title: "Oficina de solda de componentes eletrônicos PTH e SMD"
         description: "Abordagem teórica e prática referente a materiais, ferramentas e técnicas utilizadas para soldar e dessoldar componentes eletrônicos em geral com exemplos práticos. Tópicos: Materiais:como usar estanho, fluxo, pasta, salva chip, álcool isopropílico, limpa fluxo, malha de cobre; Ferramentas: como usar ferro de solda, estação de solda, soprador, sugador, pinça, esponja metálica, esponja vegetal; Técnicas: como soldar e dessoldar componentes eletrônicos PTH (Plated Through Hole) e SMD (Surface Mount Devices), estanhar, limpar e retrabalhar placas; Exemplos práticos de todos os assuntos abordados."
         time: "10h00"
     ,
-      name: "Juliano Webtronico"
-      photo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
-      bio: "Juliano é empresário da área de eletrônicos e membro do Matehackers."
-      company: "Webtronico"
-      twitter: "webtronicobr"
+      name: ["Juliano Webtronico"]
+      photo: ["http://www.webtronico.com/image/data/logo_duas_cores_200px.png"]
+      bio: ["Juliano é empresário da área de eletrônica e membro do Matehackers."]
+      company: ["Webtronico"]
+      twitter: ["webtronicobr"]
       presentation:
         title: "Oficina de solda e montagem do Mateduino Nibiru"
         description: "(Sem pré requisitos. Desejável conhecimento em soldar componentes para quem comprar o kit) Montagem completa de uma placa Mateduino Nibiru, mostrando técnicas de solda, montagem e identificação de componentes eletrônicos. Será possível comprar o kit do Mateduino Nibiru pelo preço promocional de R$30,00 e fazer a montagem durante a oficina. Tópicos: Identificação de valores dos resistores; Identificação de valores dos capacitores; Posicionamento dos componentes na placa; Soldando os componentes na placa; Teste de funcionamento da placa;"
@@ -73,20 +73,27 @@ module.exports =
       name: "Intervalo para almoço"
       time: "12h00"
     ,
-      name: "Alexandre Becker"
-      photo: "https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"
-      bio: "Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de também flertar com a área de software."
-      company: "Matehackers"
+      name: ["Alexandre Becker","Guilherme Araujo"]
+      photo: ["https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg","https://lh6.googleusercontent.com/-ApGtg85qKXc/AAAAAAAAAAI/AAAAAAAACVU/LJG0CLhk_cA/s120-c/photo.jpg"]
+      bio: ["Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de também flertar com a área de software.","Guilherme é um dos fundadores do Matehackers, possui experiência com desenvolvimento web e mobile. Trabalha com Software Livre, colaborando com Mconf e BigBlueButton. Entusiasta hacker, flerta com diversas áreas da computação."]
+      company: ["Matehackers"]
+      twitter: ["AlexBkr_","gkrugeraraujo"]
       presentation:
         title: "Oficina de Introdução a Eletrônica e Arduino"
         description: "Essa é tem como requisito apenas interesse em aprender, serão abordados os seguintes tópicos: *Revisão de circuitos elétricos e eletrônica; *O que é o Arduino; *Arduino Uno; *Apresentação de diversos componentes; *Ambiente de desenvolvimento (software); *Projeto exemplo (blink); *Comunicação serial; *Leitura de entrada digital; *Leitura de entrada analógica; *Hands on."
         time: "14:00"
     ,
-      name: "Lucas Zawacki"
-      photo: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg"
-      bio: "É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game)."
-      company: "Matehackers"
-      twitter: "lfzawacki"
+      name: [
+        "Lucas Zawacki"
+      ,
+        "Alan Ficagna"
+      ,
+        "Alexandre Becker"
+      ]
+      photo: ["http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg","https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQianJgfW2kr-V8T7caNJA6FdT9-4KG3J6L57rJa92gHw9DstXHuQ","https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"]
+      bio: ["É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game).","Alan Alan Alan!!!","Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de ta    mbém flertar com a área de software."]
+      company: ["Matehackers"]
+      twitter: ["lfzawacki","alanficagna","AlexBkr_"]
       presentation:
         title: "O casamento do Software e Hardware"
         description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software..."
