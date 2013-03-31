@@ -86,6 +86,7 @@ module.exports =
       photo: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg"
       bio: "É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game)."
       company: "Matehackers"
+      twitter: "lfzawacki"
       presentation:
         title: "O casamento do Software e Hardware"
         description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software..."
