@@ -81,6 +81,15 @@ module.exports =
         title: "Oficina de Introdução a Eletrônica e Arduino"
         description: "Essa é tem como requisito apenas interesse em aprender, serão abordados os seguintes tópicos: *Revisão de circuitos elétricos e eletrônica; *O que é o Arduino; *Arduino Uno; *Apresentação de diversos componentes; *Ambiente de desenvolvimento (software); *Projeto exemplo (blink); *Comunicação serial; *Leitura de entrada digital; *Leitura de entrada analógica; *Hands on."
         time: "14:00"
+    ,
+      name: "Lucas Zawacki"
+      photo: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg"
+      bio: "É um programador com bastante experiência em ambientes Linux e Unix, e programação C/C++. Tambem desenvolveu diversos projetos com framework Ruby on Rails. É membro fundador do Matehackers, com ampla experiência em Software livre, ja participou do Google Summer of Code colaborando com Wine e possui experiência com Joysticks (isso não quer dizer que ele joga muito video game)."
+      company: "Matehackers"
+      presentation:
+        title: "O casamento do Software e Hardware"
+        description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software..."
+        time: "17:00"
     ]
 
     # List of Sponsors
@@ -114,6 +123,10 @@ module.exports =
       name: "Casa de Cultura Digital Porto Alegre"
       logo: "https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg"
       url: "http://casadaculturadigital.com.br/poa"
+    ,
+      name: "Bunker360"
+      logo: "http://www.bunker360.com.br/logo_bunker360.jpg"
+      url: "https://www.facebook.com/BNKR360"
     ]
 
     # Theme path
