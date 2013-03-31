@@ -116,8 +116,8 @@ module.exports =
     ,
       name: "Jogo Genius"
       url: ""
-      description: "Uma placa microcontrolada criada no Matehackers, inspirada no Arduino e com objetivo de produzir uma placa de baixo custo."
-      photo: "Genius era um brinquedo muito popular na década de 1980 e que buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar. Nós recriamos o game, você pode jogar e se quiser aprender a fazer o seu."
+      description: "Genius era um brinquedo muito popular na década de 1980 e que buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar. Nós recriamos o game, você pode jogar e se quiser aprender a fazer o seu."
+      photo: ""
     ]
 
     # List of Partners
