@@ -17,7 +17,7 @@ module.exports =
     # Site info
     site:
       theme: "yellow-swan"
-      url: "http://matehackers.github.com/evento"
+      url: "http://matehackers.org/hfday"
       googleanalytics: "UA-39733956-1"
 
     # Active sections on the website
