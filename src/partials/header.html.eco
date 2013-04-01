@@ -11,7 +11,7 @@
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
       <span class="price"><%= @conf.price %></span>
-      <a href="" class="call-action-link" title="Registre-se">Registre-se em breve!</a>
+      <a href="https://docs.google.com/forms/d/1ltZT7zijWWfSCcekGeoJsTSMTGo1as1WHHgvoRe_uuQ/viewform" class="call-action-link" title="Registre-se">Registre-se agora!</a>
     </div>
   </div>
 </header>
