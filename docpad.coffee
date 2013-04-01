@@ -96,7 +96,7 @@ module.exports =
       twitter: ["lfzawacki","Hoarf","AlexBkr_"]
       presentation:
         title: "O casamento do Software e Hardware"
-        description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software..."
+        description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software utilizando Python,Processing e Arduino. Nos exemplos será abordada comunicação serial via USB e utilização do Protocolo Firmata."
         time: "17:00"
     ]
 
