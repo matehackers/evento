@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['exhibition'] %></h2>
 
-<p itemprop="description">Durante todo o evento, teremos no saguão do quinto andar uma exposição com alguns dos projetos do Matehackers e algumas mesas para confraternização e hacks em geral. Por isso, mesmo que você não possa participar de alguma oficina, passe no evento para conferiri o que estamos fazendo e como você pode fazer parte desse movimento.</p>
+<p itemprop="description">Durante todo o evento, teremos no saguão do quinto andar uma exposição com alguns dos projetos do Matehackers e algumas mesas para confraternização e hacks em geral. Por isso, mesmo que você não possa participar de alguma oficina, passe no evento para conferir o que estamos fazendo e como você pode fazer parte desse movimento.</p>
 
 <p>Além disso, a Webtronico estará presente com demonstração kits de eltrônica e shields de Arduino.</p>
 
