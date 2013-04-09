@@ -140,6 +140,10 @@ module.exports =
       name: "Bunker360"
       logo: "http://www.bunker360.com.br/logo_bunker360.jpg"
       url: "https://www.facebook.com/BNKR360"
+    , 
+      name: "Casa de Cultura Mario Quintana"
+      logo: "http://img705.imageshack.us/img705/5659/logotipoccmq.jpg"
+      url: "http://www.ccmq.com.br/"    
     ]
 
     # Theme path
