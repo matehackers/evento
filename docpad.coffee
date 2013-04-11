@@ -26,9 +26,9 @@ module.exports =
     sections: [
       'about'
       'location'
+      'schedule'
       'exhibition'
       'speakers'
-      'schedule'
       'sponsors'
       'partners'
       'contact'
@@ -95,8 +95,20 @@ module.exports =
       company: ["Matehackers"]
       twitter: ["lfzawacki","Hoarf","AlexBkr_"]
       presentation:
-        title: "O casamento do Software e Hardware"
-        description: "Essa oficina pretende demonstrar maneiras de se integrar o hardware com software utilizando Python,Processing e Arduino. Nos exemplos será abordada comunicação serial via USB e utilização do Protocolo Firmata."
+        title: "Integração entre Software e Hardware livre"
+        description: "Essa oficina pretende demonstrar maneiras de se integrar os seus projetos de hardware livre com software rodando em um PC fazendo uso de Python, Processing e outras tecnologias. Uma oficina cheia de demonstrações serão abordados, entre outros, comunicação serial via USB e utilização do Protocolo Firmata."
+        time: "16:00"
+    ,
+      name: [
+        "Joel Grigolo (mediação)"
+      ]
+      photo: ["https://lh4.googleusercontent.com/-tclThHZeNbY/AAAAAAAAAAI/AAAAAAAAAxk/q6vZJcvmiEw/s120-c/photo.jpg"]
+      bio: ["Joel é sociólogo formado pela UFRGS, hobbysta em eletrônica, mecânica e áudio de alta fidelidade. Está sempre pronto para começar um novo projeto e é pitaqueiro de plantão no projeto dos outros."]
+      company: ["Matehackers"]
+      twitter: [""]
+      presentation:
+        title: "Hardware Livre: de consumidor a produtor - Debate com os coletivos de tecnologia"
+        description: "Uma mesa redonda para discutir os novos paradigmas de produção e consumo de hardware, que transformam o hacker de fundo de garagem em inovador em potencial, e o papel dos Hackerspaces e demais coletivos de tecnologia na sua adoção e popularização."
         time: "17:00"
     ]
 
