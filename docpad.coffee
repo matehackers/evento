@@ -100,15 +100,19 @@ module.exports =
         time: "16:00"
     ,
       name: [
-        "Joel Grigolo (mediação)"
+        "Joel Grigolo (mediação)",
+        "Casa da Cultura Digital Porto Alegre",
+        "Gabinete Digital do Rio Grande do Sul"
       ]
-      photo: ["https://lh4.googleusercontent.com/-tclThHZeNbY/AAAAAAAAAAI/AAAAAAAAAxk/q6vZJcvmiEw/s120-c/photo.jpg"]
-      bio: ["Joel é sociólogo formado pela UFRGS, hobbysta em eletrônica, mecânica e áudio de alta fidelidade. Está sempre pronto para começar um novo projeto e é pitaqueiro de plantão no projeto dos outros."]
-      company: ["Matehackers"]
-      twitter: [""]
+      photo: ["https://lh4.googleusercontent.com/-tclThHZeNbY/AAAAAAAAAAI/AAAAAAAAAxk/q6vZJcvmiEw/s120-c/photo.jpg", "https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg", "https://si0.twimg.com/profile_images/3180288209/553b3c4e182173c3b7bfddfa31988480.jpeg"]
+      bio: ["Joel é sociólogo formado pela UFRGS, hobbysta em eletrônica, mecânica e áudio de alta fidelidade. Está sempre pronto para começar um novo projeto e é pitaqueiro de plantão no projeto dos outros.",
+            "A Casa da Cultura Digital existe para disseminar a cultura digital. O objetivo é reunir o máximo de conhecimento a partir de encontros virtuais e físicos.",
+            "O Gabinete Digital é um canal de participação e diálogo entre governo e sociedade. Vinculado à Secretaria-Geral de Governo, tem o objetivo de incorporar novas ferramentas de participação, oferecendo diferentes oportunidades ao cidadão de influenciar a gestão pública e exercer maior controle social sobre o Estado."]
+      company: ["Matehackers", "Casa da Cultura Digital", "Gabinete Digital"]
+      twitter: ["", "gabinetedigital", ""]
       presentation:
         title: "Hardware Livre: de consumidor a produtor - Debate com os coletivos de tecnologia"
-        description: "Uma mesa redonda para discutir os novos paradigmas de produção e consumo de hardware, que transformam o hacker de fundo de garagem em inovador em potencial, e o papel dos Hackerspaces e demais coletivos de tecnologia na sua adoção e popularização."
+        description: "Uma mesa redonda para discutir os novos paradigmas de produção e consumo de hardware, que transformam o hacker de fundo de garagem em inovador em potencial, e o papel dos Hackerspaces e demais coletivos de tecnologia na sua adoção e popularização. Vamos abrir a conversa com um panorama sobre o Hardware livre, suas conquistas técnicas e possibilidades e depois será aberto o debate entre os representantes dos coletivos e demais presentes na platéia"
         time: "17:00"
     ]
 
@@ -145,7 +149,7 @@ module.exports =
       logo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
       url: "http://webtronico.com"
     ,
-      name: "Casa de Cultura Digital Porto Alegre"
+      name: "Casa da Cultura Digital Porto Alegre"
       logo: "https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg"
       url: "http://casadaculturadigital.com.br/poa"
     ,
