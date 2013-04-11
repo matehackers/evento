@@ -109,7 +109,7 @@ module.exports =
             "A Casa da Cultura Digital existe para disseminar a cultura digital. O objetivo é reunir o máximo de conhecimento a partir de encontros virtuais e físicos.",
             "O Gabinete Digital é um canal de participação e diálogo entre governo e sociedade. Vinculado à Secretaria-Geral de Governo, tem o objetivo de incorporar novas ferramentas de participação, oferecendo diferentes oportunidades ao cidadão de influenciar a gestão pública e exercer maior controle social sobre o Estado."]
       company: ["Matehackers", "Casa da Cultura Digital", "Gabinete Digital"]
-      twitter: ["", "gabinetedigital", ""]
+      twitter: ["", "", "gabinetedigital"]
       presentation:
         title: "Hardware Livre: de consumidor a produtor - Debate com os coletivos de tecnologia"
         description: "Uma mesa redonda para discutir os novos paradigmas de produção e consumo de hardware, que transformam o hacker de fundo de garagem em inovador em potencial, e o papel dos Hackerspaces e demais coletivos de tecnologia na sua adoção e popularização. Vamos abrir a conversa com um panorama sobre o Hardware livre, suas conquistas técnicas e possibilidades e depois será aberto o debate entre os representantes dos coletivos e demais presentes na platéia"
