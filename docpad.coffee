@@ -160,6 +160,10 @@ module.exports =
       name: "Casa de Cultura Mario Quintana"
       logo: "http://img705.imageshack.us/img705/5659/logotipoccmq.jpg"
       url: "http://www.ccmq.com.br/"    
+    , 
+      name: "Gabinete Digital"
+      logo: "https://si0.twimg.com/profile_images/3180288209/553b3c4e182173c3b7bfddfa31988480.jpeg"
+      url: "http://gabinetedigital.rs.gov.br/"    
     ]
 
     # Theme path
