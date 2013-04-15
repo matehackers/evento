@@ -73,6 +73,16 @@ module.exports =
       name: "Intervalo para almoço"
       time: "12h00"
     ,
+      name: ["Matehackers"]
+      photo: [""]
+      company: [""]
+      twitter: [""]
+      bio: ["Uma Lightning Talk é uma palestra condensada em apenas 5 minutos. Durante esta serão apresentadas talks por diversas pessoas, não sendo elas necessariamente membros do Matehackers ou organizadores do evento, pode até mesmo ser você! Uma ótima oportunidade para preencher a mente com novas ideias e começar bem a tarde."]
+      presentation:
+        title: "Lightning Talks - Hardware, Software e Cultura Livres"
+        description: "Uma Lightning Talk é uma palestra condensada em apenas 5 minutos. Durante esta serão apresentadas talks por diversas pessoas, não sendo elas necessariamente membros do Matehackers ou organizadores do evento, pode até mesmo ser você! Uma ótima oportunidade para preencher a mente com novas ideias e começar bem a tarde."
+        time: "13:00"
+    ,
       name: ["Alexandre Becker","Guilherme Araujo"]
       photo: ["https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg","https://lh6.googleusercontent.com/-ApGtg85qKXc/AAAAAAAAAAI/AAAAAAAACVU/LJG0CLhk_cA/s120-c/photo.jpg"]
       bio: ["Alexandre é um dos responsáveis pelo surgimento e existência do Matehackers. Um dos melhores exemplos de hacker do grupo, ele já organizava o Espaço de Tecnologia Livre de Porto Alegre antes de se juntar ao Matehackers. É entusiasta e hacker da eletrônica, além de também flertar com a área de software.","Guilherme é um dos fundadores do Matehackers, possui experiência com desenvolvimento web e mobile. Trabalha com Software Livre, colaborando com Mconf e BigBlueButton. Entusiasta hacker, flerta com diversas áreas da computação."]
