@@ -52,7 +52,7 @@ module.exports =
     ,
       name: ["Juliano Webtronico"]
       photo: ["http://www.webtronico.com/image/data/logo_duas_cores_200px.png"]
-      bio: ["Juliano é empresário da área de eletrônica e membro do Matehackers."]
+      bio: ["Juliano Dal Pont é engenheiro de controle e automação, sócio da Webtronico Componentes Eletrônicos e membro do Matehackers. Já trabalhou com desenvolvimento de software no Brasil e Itália. Atualmente trabalha com desenvolvimento de hardware. Inventor por hobby (ou não) possui algumas patentes na gaveta e outras registradas."]
       company: ["Webtronico"]
       twitter: ["webtronicobr"]
       presentation:
@@ -60,13 +60,13 @@ module.exports =
         description: "Abordagem teórica e prática referente a materiais, ferramentas e técnicas utilizadas para soldar e dessoldar componentes eletrônicos em geral com exemplos práticos. Tópicos: Materiais:como usar estanho, fluxo, pasta, salva chip, álcool isopropílico, limpa fluxo, malha de cobre; Ferramentas: como usar ferro de solda, estação de solda, soprador, sugador, pinça, esponja metálica, esponja vegetal; Técnicas: como soldar e dessoldar componentes eletrônicos PTH (Plated Through Hole) e SMD (Surface Mount Devices), estanhar, limpar e retrabalhar placas; Exemplos práticos de todos os assuntos abordados."
         time: "10h00"
     ,
-      name: ["Juliano Webtronico"]
+      name: ["Juliano Dal Pont"]
       photo: ["http://www.webtronico.com/image/data/logo_duas_cores_200px.png"]
-      bio: ["Juliano é empresário da área de eletrônica e membro do Matehackers."]
+      bio: ["Juliano Dal Pont é engenheiro de controle e automação, sócio da Webtronico Componentes Eletrônicos e membro do Matehackers. Já trabalhou com desenvolvimento de software no Brasil e Itália. Atualmente trabalha com desenvolvimento de hardware. Inventor por hobby (ou não) possui algumas patentes na gaveta e outras registradas."]
       company: ["Webtronico"]
       twitter: ["webtronicobr"]
       presentation:
-        title: "Oficina de solda e montagem do Mateduino Nibiru"
+        title: "Oficina de solda e montagem do Arduino de baixo custo (Mateduino Nibiru)"
         description: "(Sem pré requisitos. Desejável conhecimento em soldar componentes para quem comprar o kit) Montagem completa de uma placa Mateduino Nibiru, mostrando técnicas de solda, montagem e identificação de componentes eletrônicos. Será possível comprar o kit do Mateduino Nibiru pelo preço promocional de R$30,00 e fazer a montagem durante a oficina. Tópicos: Identificação de valores dos resistores; Identificação de valores dos capacitores; Posicionamento dos componentes na placa; Soldando os componentes na placa; Teste de funcionamento da placa;"
         time: "11h00"
     ,
