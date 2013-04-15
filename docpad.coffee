@@ -73,10 +73,10 @@ module.exports =
       name: "Intervalo para almoço"
       time: "12h00"
     ,
-      name: ["Matehackers"]
-      photo: [""]
-      company: [""]
-      twitter: [""]
+      name: ["Aberto para todos"]
+      photo: ["http://www.efecade.com.br/wp-content/uploads/2013/01/REFLEXOES-VOCE.jpg"]
+      company: ["Aberto para todos"]
+      twitter: ["MateHackers"]
       bio: ["Uma Lightning Talk é uma palestra condensada em apenas 5 minutos. Durante esta serão apresentadas talks por diversas pessoas, não sendo elas necessariamente membros do Matehackers ou organizadores do evento, pode até mesmo ser você! Uma ótima oportunidade para preencher a mente com novas ideias e começar bem a tarde."]
       presentation:
         title: "Lightning Talks - Hardware, Software e Cultura Livres"
