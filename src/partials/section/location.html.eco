@@ -1,9 +1,12 @@
 <h2 class="section-title"><%= @labels['location'] %></h2>
 
+<strong>
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
   <span itemprop="streetAddress"><%= @conf.address %>. </span>
   <span itemprop="addressLocality"><%= @conf.city %></span>,
   <span itemprop="addressRegion"> <%= @conf.state %></span>
+  , 5° Andar
 </p>
+</strong>
 
 <div id="map-canvas" class="location-area" data-address="<%= @conf.address %> <%= @conf.city %>"></div>
