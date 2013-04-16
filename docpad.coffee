@@ -151,6 +151,11 @@ module.exports =
       url: "http://www.matehackers.org/doku.php?id=genius"
       description: "Genius era um brinquedo muito popular na década de 1980 e que buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar. Nós recriamos o game, você pode jogar e se quiser aprender a fazer o seu."
       photo: "http://www.matehackers.org/lib/exe/fetch.php?w=300&media=genius.png"
+    ,
+      name: "Hacks Livres"
+      url: "http://www.matehackers.org/doku.php?id=projetos"
+      description: "Espaço para as pessoas hackearem e trocarem conhecimento. Debater projetos, colocar a mão na massa ou simplesmente bater um papo divertido."
+      photo: "https://si0.twimg.com/profile_images/2907204988/b904d8515606676078401a8865f5094c.jpeg"
     ]
 
     # List of Partners
