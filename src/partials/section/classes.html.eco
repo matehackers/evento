@@ -1,0 +1,24 @@
+<h2 class="section-title"><%= @labels['classes'] %></h2>
+<% for aclass in @classes: %>
+<div class="classes-tbl">
+    <table>
+      <thead>
+        <tr>
+          <th class="classes-slot"><%= aclass.title %></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% for name in aclass.participants: %>
+          <tr>
+            <td class="classes-slot"><%= name %></td>
+          </tr>
+        <% end %>
+        <% for name in aclass.alternates: %>
+          <tr>
+            <td class="classes-slot alternate"><%= name %> <strong>(Suplente)</strong></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+<% end %>

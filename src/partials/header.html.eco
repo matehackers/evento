@@ -11,7 +11,7 @@
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
       <span class="price"><%= @conf.price %></span>
-      <a href="#classes" class="call-action-link" title="Esgotou :( Mas você ainda pode aproveitar tudo que vai acontecer na parte do saguão, as pessoas estarão lá com espaço para hacks livres e o conhecimento estará ecoando por todo evento. :)">Vagas esgotas, clique aqui para ver as turmas.</a>
+      <!-- <a href="#classes" class="call-action-link" title="Esgotou :( Mas você ainda pode aproveitar tudo que vai acontecer na parte do saguão, as pessoas estarão lá com espaço para hacks livres e o conhecimento estará ecoando por todo evento. :)">Vagas esgotas, mas você ainda pode participar.</a> -->
     </div>
   </div>
 </header>

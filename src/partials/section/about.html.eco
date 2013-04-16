@@ -1,6 +1,7 @@
 <!--<a href="http://www.hfday.org/"><img src="http://www.hfday.org/countdown/banner1-UTC-4-en.png" border="0" width="154" height="154" alt="Celebrate Hardware Freedom Day with us on April 20!" style="float:right; padding: 15px;"></a>-->
 
-<div class="tagline">Mesmo com as vagas esgotadas, você ainda pode participar e aproveitar essa celebração.</div>
+<div class="tagline" style="font-size:1.6em; margin-bottom:5px !important;" align="center">Confira as <a href="#classes">turmas</a>.</div>
+<div style="font-size:1.5em; color:#b24444;" align="center">Se você não conseguiu uma vaga não fique triste, você ainda pode aproveitar tudo que vai acontecer, teremos espaços para hacks livres e o conhecimento estará ecoando por todo evento.</div>
 
 <h2 class="section-title"><%= @labels['about'] %></h2>
 
