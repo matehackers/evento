@@ -174,6 +174,10 @@ module.exports =
       name: "Gabinete Digital"
       logo: "https://si0.twimg.com/profile_images/3180288209/553b3c4e182173c3b7bfddfa31988480.jpeg"
       url: "http://gabinetedigital.rs.gov.br/"    
+    , 
+      name: "Matehackers"
+      logo: "https://si0.twimg.com/profile_images/2907204988/b904d8515606676078401a8865f5094c.jpeg"
+      url: "http://matehackers.org/"    
     ]
 
     # Theme path
