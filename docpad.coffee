@@ -28,6 +28,7 @@ module.exports =
       'location'
       'schedule'
       'exhibition'
+      'classes'
       'speakers'
       'sponsors'
       'partners'
@@ -44,6 +45,150 @@ module.exports =
       sponsors: "Patrocinadores"
       partners: "Parceiros"
       contact: "Contato"
+      classes: "Turmas"
+
+    # Classes
+
+    classes: [
+      title: "Oficina de solda de componentes eletrônicos PTH e SMD"
+      participants: [
+        "Alexandre Becker",
+        "Gean Tharcisio Rocha",
+        "Augusto Bennemann",
+        "Joel Grigolo",
+        "Paulo Bettanzos",
+        "Gustavo Foletto Mora",
+        "Alissa Gottfried",
+        "Paulo Keller",
+        "Clean Rodrigo Costa",
+        "Caroline Aquistapace",
+        "Renan da Silva",
+        "oscar france costa cavalheiro",
+        "Maicon Roberto Costa Ferreira",
+        "Artur (artur...ini@email.com...)",
+        "Rafaela Meissner Wetternick",
+        "Válter Brandenburger",
+        "Diogo Costa",
+        "Guilherme Augusto Dias",
+        "Eduardo Bohrer",
+        "Elvirio Daniel Hans Junior",
+      ]
+      alternates: [
+        "Kazuki",
+        "Telmo Souza",
+        "Vitor Rey",
+        "Alan Salazar Wink",
+        "Matheo",
+        "Daniel Silva"
+      ]
+    ,
+      title: "Oficina de solda e montagem do Mateduino Nibiru"
+      participants: [
+        "Augusto Bennemann",
+        "Paulo Bettanzos",
+        "Gustavo Foletto Mora",
+        "Alissa Gottfried",
+        "Paulo Keller",
+        "Clean Rodrigo Costa",
+        "Guilherme Gomes Zucco",
+        "oscar france costa cavalheiro",
+        "Maicon Roberto Costa Ferreira",
+        "Joao Batista Schermann Francisco",
+        "Levi Trevisan",
+        "André Costa",
+        "Jeronimo Grandi",
+        "Rafaela Meissner Wetternick",
+        "Válter Brandenburger",
+        "Diogo Costa",
+        "Daniel O'Maley",
+        "Paola Inhaquite Wollmann",
+        "Guilherme Augusto Dias",
+        "Eduardo Bohrer"
+      ]
+      alternates: [
+        "Elvirio Daniel Hans Junior",
+        "Lucas Fogliarini Pedroso",
+        "Kazuki",
+        "Telmo Souza",
+        "Vitor Rey",
+        "Alan Salazar Wink",
+        "Matheo",
+        "Daniel Silva"
+      ]
+    ,
+      title: "Oficina de Introdução a Eletrônica e Arduino"
+      participants: [
+        "Augusto Bennemann",
+        "Paulo Bettanzos",
+        "Gustavo Foletto Mora",
+        "Alissa Gottfried",
+        "Paulo Keller",
+        "Leonardo Feltrin Foletto",
+        "Paulo Bettanzos",
+        "Clean Rodrigo Costa",
+        "Maria Inês Castilho",
+        "Caroline Aquistapace",
+        "Renan da Silva",
+        "Lucas Franzoni",
+        "Guilherme Gomes Zucco",
+        "oscar france costa cavalheiro",
+        "Maicon Roberto Costa Ferreira",
+        "Artur",
+        "Joao Batista Schermann Francisco",
+        "Levi Trevisan",
+        "André Costa",
+        "Rafaela Meissner Wetternick"
+      ]
+      alternates: [
+        "Válter Brandenburger",
+        "Rafael Vasques Brandão",
+        "Paola Inhaquite Wollmann",
+        "Eduardo Bohrer",
+        "Elvirio Daniel Hans Junior",
+        "Telmo Souza",
+        "Vitor Rey",
+        "Matheo",
+        "Daniel Silva"
+      ]
+    ,
+      title: "O casamento do Software e Hardware"
+      participants: [
+        "Gean Tharcisio Rocha",
+        "Paulo Bettanzos",
+        "Gustavo Foletto Mora",
+        "Alissa Gottfried",
+        "Paulo Keller",
+        "Paulo Bettanzos",
+        "Clean Rodrigo Costa",
+        "Fausto Kuhn Berenguer Barbosa",
+        "Maria Inês Castilho",
+        "Caroline Aquistapace",
+        "Renan da Silva",
+        "Lucas Franzoni",
+        "oscar france costa cavalheiro",
+        "Maicon Roberto Costa Ferreira",
+        "Artur",
+        "Levi Trevisan",
+        "Rafaela Meissner Wetternick",
+        "Rafael Vasques Brandão",
+        "Giovanni Avila Marcolin",
+        "Monique Fernandes Silveira"
+      ]
+      alternates: [
+        "Paola Inhaquite Wollmann",
+        "Eduardo Bohrer",
+        "Elvirio Daniel Hans Junior",
+        "Lucas Fogliarini Pedroso",
+        "douglas reginato",
+        "Kazuki",
+        "Cristiano Medeiros Dalbem",
+        "Vitor Rey",
+        "Alan Salazar Wink",
+        "dreyson queiroz",
+        "Matheo",
+        "Daniel Silva"
+      ]
+    ]
 
     # The entire schedule
     schedule: [

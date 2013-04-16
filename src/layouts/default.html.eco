@@ -45,7 +45,7 @@
 
     <%-@partial('nav.html.eco', @)%>
     <%-@partial('header.html.eco', @)%>
-
+    
     <!-- CONTENT -->
     <div class="content" id="content">
       <div class="wrapper">

@@ -459,6 +459,41 @@ nav {
   font-size: 1.4em;
 }
 /* =============================================================================
+   CLASSES
+   ========================================================================== */
+.classes-tbl {
+  padding: 5px;
+}
+.classes-tbl table {
+  border-collapse: collapse;
+  font-size: 1em;
+  padding: 30px 0 0 0;
+}
+.classes-tbl td,
+.classes-tbl th {
+  position: relative;
+  padding: 5px 30px;
+  font-size: 1.4em;
+  line-height: 1.4em;
+  text-align: left;
+}
+.classes-tbl th {
+  padding: 5px 30px;
+  color: #2b2b2b;
+  font-size: 2em;
+  font-weight: bolder;
+}
+.classes-tbl .classes-slot {
+  text-align: justify;
+}
+.classes-tbl .alternate {
+  color: #9b2b2b;
+}
+.classes-slot {
+  width: 250px;
+  font-size: 16px;
+}
+/* =============================================================================
    SCHEDULE
    ========================================================================== */
 .schedule-tbl {
@@ -873,6 +908,34 @@ nav {
   color: #fff;
   background: #2b2b2b;
   border-radius: 8px;
+}
+/* =============================================================================
+   CLASSES
+   ========================================================================== */
+.classes-tbl {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
+}
+.classes-tbl table {
+  background: #fff;
+}
+.classes-tbl td,
+.classes-tbl th {
+  border-bottom: 1px solid #e7e7e7;
+}
+.classes-tbl tbody tr:nth-child(2n+1) {
+  background: #f6f6f6;
+}
+.classes-tbl th {
+  color: #2b2b2b;
+}
+.classes-slot {
+  color: #2b2b2b;
+}
+.classes-tbl tbody tr:hover {
+  background: #fffde1;
 }
 /* =============================================================================
    SCHEDULE

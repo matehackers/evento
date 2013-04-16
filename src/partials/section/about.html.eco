@@ -1,5 +1,7 @@
 <!--<a href="http://www.hfday.org/"><img src="http://www.hfday.org/countdown/banner1-UTC-4-en.png" border="0" width="154" height="154" alt="Celebrate Hardware Freedom Day with us on April 20!" style="float:right; padding: 15px;"></a>-->
 
+<div class="tagline">Mesmo com as vagas esgotadas, você ainda pode participar e aproveitar essa celebração.</div>
+
 <h2 class="section-title"><%= @labels['about'] %></h2>
 
 <p itemprop="description">Junte-se ao pessoal do <a href="http://matehackers.org">Matehackers</a> e da <a href="https://www.facebook.com/ccdpoa">Casa da Cultura Digital</a> e venha participar de um evento cheio atividades. Teremos durante o dia oficinas introdutórias de hardware livre e eletrônica, aprenda sobre hackerspaces e liberdade de conhecimento, descubra diversos projetos desenvolvidos dentro do Matehackers e venha fazer parte desse ecossistema de cultura livre!</p>
