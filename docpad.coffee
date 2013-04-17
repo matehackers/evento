@@ -305,18 +305,18 @@ module.exports =
 
     # List of Partners
     partners: [
-      name: "Webtronico"
-      logo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
-      url: "http://webtronico.com"
-    ,
       name: "Casa da Cultura Digital Porto Alegre"
       logo: "https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg"
       url: "http://casadaculturadigital.com.br/poa"
     ,
-      name: "Bunker360"
-      logo: "http://www.bunker360.com.br/logo_bunker360.jpg"
-      url: "https://www.facebook.com/BNKR360"
-    , 
+      name: "Associação Software Livre"
+      logo: "http://www.seprorgs.org.br/upload/site_associese/37_g.jpg"
+      url: "http://softwarelivre.org/asl"
+    ,
+      name: "Webtronico"
+      logo: "http://www.webtronico.com/image/data/logo_duas_cores_200px.png"
+      url: "http://webtronico.com"
+    ,
       name: "Casa de Cultura Mario Quintana"
       logo: "http://img705.imageshack.us/img705/5659/logotipoccmq.jpg"
       url: "http://www.ccmq.com.br/"    
@@ -328,6 +328,10 @@ module.exports =
       name: "Matehackers"
       logo: "https://si0.twimg.com/profile_images/2907204988/b904d8515606676078401a8865f5094c.jpeg"
       url: "http://matehackers.org/"    
+    ,
+      name: "Bunker360"
+      logo: "http://www.bunker360.com.br/logo_bunker360.jpg"
+      url: "https://www.facebook.com/BNKR360"
     ]
 
     # Theme path
