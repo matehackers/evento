@@ -170,14 +170,13 @@ module.exports =
         "oscar france costa cavalheiro",
         "Maicon Roberto Costa Ferreira",
         "Artur",
-        "Levi Trevisan",
         "Rafaela Meissner Wetternick",
         "Rafael Vasques Brandão",
         "Giovanni Avila Marcolin",
-        "Monique Fernandes Silveira"
+        "Monique Fernandes Silveira",
+        "Paola Inhaquite Wollmann"
       ]
       alternates: [
-        "Paola Inhaquite Wollmann",
         "Eduardo Bohrer",
         "Elvirio Daniel Hans Junior",
         "Lucas Fogliarini Pedroso",
