@@ -1,0 +1,19 @@
+<h2 class="section-title"><%= @labels['next'] %></h2>
+
+<center>
+ <p><strong>27 de Abril</strong> - Festival Latino Americano de Instalação de Software Livre (FLISOL)</p>
+ <a href="http://flisol.info/FLISOL2013/Brasil/PortoAlegre"><img src="https://mail.google.com/mail/u/0/?ui=2&ik=e7daa0d13d&view=att&th=13e19736775f1596&attid=0.1&disp=inline&realattid=f_hfmw19pz0&safe=1&zw" alt="banner FLISOL" width="400" height="400"></a>
+ <br/>
+ <br/>
+ <p><strong>04 de Maio</strong> - Hackeando ferramentas de participação na Gestão Pública (com o Gabinete Digital)</p>
+ <a href="http://www.matehackers.org/doku.php?id=hack_gd_00"><img src="http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-hack-the-government.png" alt="banner hacks com gabinete digital" width="400" height="400"></a>
+ <br/>
+ <br/>
+ <p><strong>18 de Maio</strong> - Culture Freedom Day</p>
+ <a href="http://www.culturefreedomday.org/"><img src="http://www.culturefreedomday.org/images/banners/cfd-336x280.png" alt="banner CFDay"></a>
+ <br/>
+ <br/>
+ <p><strong>03 a 06 de Julho</strong> - Forum Internacional do Software Livre (FISL 14)</p>
+ <a href="http://softwarelivre.org/fisl14"><img src="http://softwarelivre.org/articles/0124/7743/capa-googlePlus1.png" alt="banner FISL"></a>
+ <br/>
+</center>

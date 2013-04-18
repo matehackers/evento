@@ -32,6 +32,7 @@ module.exports =
       'speakers'
       'sponsors'
       'partners'
+      'next'  
       'contact'
     ]
 
@@ -46,6 +47,7 @@ module.exports =
       partners: "Parceiros"
       contact: "Contato"
       classes: "Turmas"
+      next: "Próximos Eventos"
 
     # Classes
 
