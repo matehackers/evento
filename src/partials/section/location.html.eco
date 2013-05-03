@@ -5,7 +5,6 @@
   <span itemprop="streetAddress"><%= @conf.address %>. </span>
   <span itemprop="addressLocality"><%= @conf.city %></span>,
   <span itemprop="addressRegion"> <%= @conf.state %></span>
-  , 5° Andar
 </p>
 </strong>
 

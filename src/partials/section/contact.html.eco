@@ -1,7 +1,7 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
-<p>Para entrar em contato com a organização do evento envie um email para <u>gui2811@gmail.com</u></p>
+<p>Para entrar em contato com a organização do evento envie um email para <strong>lfzawacki {arroba} gmail {ponto} com</strong></p>
 
-<p>Tambem no canal #matehackers da rede irc.freenode.net. Acesse pelo nosso <a href="http://matehackers.org/doku.php?id=mateirc">webchat</a>.</p>
+<p>Também no canal #matehackers da rede irc.freenode.net. Acesse pelo nosso <a href="http://matehackers.org/doku.php?id=mateirc">webchat</a>.</p>
 
 <p>Saiba mais sobre o Matehackers em <a href="http://matehackers.org">http://matehackers.org</a></p>
 
