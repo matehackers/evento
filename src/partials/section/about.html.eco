@@ -3,11 +3,11 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 
 
-<p itemprop="description">O Dia da Cultura Livre (ou Culture Freedom Day) é uma celebração da cultura livre, um evento mundial que ocorre toda terceira semana de Maio e este ano vai ocorrer também em Porto Alegre!
+<p itemprop="description">O Dia da Cultura Livre (ou Culture Freedom Day) é uma celebração da cultura livre e dos artistas que fazem uso dela. Um evento mundial que ocorre toda terceira semana de Maio e este ano vai ocorrer também em Porto Alegre!
 </p>
 
 <p itemprop="description">
-O objetivo do é educar a todos sobre os benefícios do uso e criação de cultura livre ao mesmo tempo que se promovem artistas locais que apoiam e fazem uso deste tipo material cultural. Então venha celebrar os artistas locais, degustar o melhor da cultura livre e descontrair com a gente!
+O objetivo principal é educar a todos sobre os benefícios do uso e criação de cultura livre ao mesmo tempo que se promovem artistas locais que apoiam e disponibilizam material neste formato. Então venha celebrar os artistas de Porto Alegre, degustar o melhor da cultura livre e descontrair com a gente!
 </p>
 
 <p>
@@ -17,3 +17,19 @@ O objetivo do é educar a todos sobre os benefícios do uso e criação de cultu
 <center>
 <a href="http://www.hfday.org/"><img src="http://matehackers.org/lib/exe/fetch.php?cache=&media=cfd-336x280.png" alt="banner"></a>
 </center>
+<br>
+<br>
+
+<h3>O que é Cultura livre?</h3>
+
+<p itemprop="description">
+A cultura livre é uma extensão lógica da filosofia do Software Livre aplicada a artefatos culturais e trabalho artístico. O termo tem suas origens no título de um livro escrito em 2004 por Lawrence Lessig, considerado um dos fundadores do movimento da cultura livre. Lessig conseguiu com sucesso canalizar este movimento também para pessoas que não ocupam seu tempo escrevendo software e criou licenças especificamente pensadas para trabalhos artísticos ao invés de código de computador.
+</p>
+
+<p itemprop="description">
+Na prática isso significa que <strong>Cultura Livre</strong> é um movimento de pessoas que decidiu criar e disponibilizar seus trabalhos de arte permitindo a terceiros que usem, estudem, distribuam e melhorem estes trabalhos.
+
+<a href="http://culturefreedomday.org/home/free-culture">Mais informações no site oficial do Culture Freedom Day (em inglês)</a>
+
+</p>
+
