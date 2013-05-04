@@ -9,8 +9,8 @@ module.exports =
       description: " O Dia da Cultura Livre (ou Culture Freedom Day) é uma celebração da cultura livre. É um evento mundial que ocorre toda terceira semana de Maio. O objetivo do evento é mostrar a todos os benefícios do uso e criação de cultura livre ao mesmo tempo que se promovem artistas locais que fazem apoiam e fazem uso desta cultura!"
       date: "18 de Maio"
       price: "Entrada Franca"
-      venue: "Sede do Matehackers, sala 206 e Galeria"
-      address: "Av. Independência 330, sala 206"
+      venue: "Casa de Cultura Mário Quintana, 5º andar"
+      address: "Rua dos Andradas, 736"
       city: "Porto Alegre"
       state: "RS"
 
@@ -47,7 +47,14 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "A definir"
+      name: "Criação de Música com ferramentas de Software Livre"
+      time : ""
+    ,
+      name: "Design Aberto"
+      time: ""
+    ,
+      name: "Publicando seu Trabalho Cultural com Licensas Livres"
+      time: ""
 #      time: "9h00"
 #    ,
 #      name: [""]
