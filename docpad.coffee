@@ -47,14 +47,65 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Criação de Música com ferramentas de Software Livre"
-      time : ""
+      name: "Casa da Cultura Digital Porto Alegre"
+      presentation:
+        title: "Abertura: Qu'est-ce que cultura livre?"
+        time: "10:00"
+        description: "Um breve histórico do Movimento de Software livre, licenças Livres para além do Creative Commons"
     ,
-      name: "Design Aberto"
-      time: ""
+      name: "Lucas Fialho Zawacki"
+      presentation:
+        title: "Criação de Música com ferramentas de Software Livre"
+        time : "10:30"
+        description: "Hoje a produção musical envolve uma série de produtos intermediários como: instrumentos, módulos de som, equipamentos de gravação e software especializado – software este muitas vezes proprietário. Nesta palestra serão apresentados e demonstrados um conjunto de softwares que são livres como a liberdade e permitem a produção musical com alto nível de qualidade, sendo muitas vezes tão bons quanto ou superiores a alternativas proprietárias."
     ,
-      name: "Publicando seu Trabalho Cultural com Licensas Livres"
-      time: ""
+      name: "Gabriel Galli e Mariel Zasso (FISL)"
+      presentation:
+        time: "11:00"
+        title: "Conversa sobre edição de vídeo com ferramentas livres"
+    ,
+      name: "Alissa Gottfried"
+      presentation:
+        time: "11:30"
+        title: "MIMOSA: oficina de metareciclagem (arte & tecnologia)"
+    ,
+      name: "Felipe Caldas, Antonio Bueno, Guto Lima"
+      presentation:
+        time: "12:00"
+        title: "Artes Visuais: remix, apropriação, citação"
+        description: "Coletivos de arte de Porto Alegre, pintura do vidro da CCD"
+    ,
+      name: ""
+      presentation:
+        time: "13:00"
+        title: "Pausa para o almoço"
+        description: "-"
+    ,
+      name: ""
+      presentation:
+        time: "14:30"
+        title: "Design & ilustrações livre: possível, viável?"
+    ,
+      name: ""
+      presentation:
+        time: "15:00"
+        title: "Publicações & literatura: arte impressa"
+    ,
+      name: ""
+      presentation:
+        time: "16:00"
+        title: "Cinema: potências da recriação com imagens de arquivos"
+    ,
+      name: ""
+      presentation:
+        time: "17:00"
+        title: "Música: criação livre na era digital (palco livre no Jardim Lutzemberger)"
+    ,
+      name: ""
+      presentation:
+        time: "19:00"
+        title: "Encerramento"
+# 19h - Encerramento
 #      time: "9h00"
 #    ,
 #      name: [""]

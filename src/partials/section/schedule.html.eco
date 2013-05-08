@@ -1,5 +1,9 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
+
+<p>Oficinas, debates, conversas, exposições e atrações artísticas (música, artes visuais, vídeo).</p>
+
 <p>A programação do evento ainda está <strong>em construção</strong>. Fique atento às novidades e mudanças.</p>
+
 <div class="schedule-tbl">
   <table>
     <thead>
