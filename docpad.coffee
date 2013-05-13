@@ -51,7 +51,7 @@ module.exports =
       presentation:
         title: "Abertura: Qu'est-ce que cultura livre?"
         time: "10:00"
-        description: "Um breve histórico do Movimento de Software livre, licenças Livres para além do Creative Commons"
+        description: "A cultura livre é uma extensão lógica da filosofia do Software Livre aplicada a artefatos culturais e trabalho artístico. O termo tem suas origens no título de um livro escrito em 2004 por Lawrence Lessig, considerado um dos fundadores do movimento da cultura livre. Lessig conseguiu com sucesso canalizar este movimento também para pessoas que não ocupam seu tempo escrevendo software e criou licenças especificamente pensadas para trabalhos artísticos ao invés de código de computador."
     ,
       name: "Lucas Fialho Zawacki"
       presentation:
@@ -64,42 +64,35 @@ module.exports =
         time: "11:00"
         title: "Conversa sobre edição de vídeo com ferramentas livres"
     ,
-      name: "Alissa Gottfried"
-      presentation:
-        time: "11:30"
-        title: "MIMOSA: oficina de metareciclagem (arte & tecnologia)"
-    ,
-      name: "Felipe Caldas, Antonio Bueno, Guto Lima"
-      presentation:
-        time: "12:00"
-        title: "Artes Visuais: remix, apropriação, citação"
-        description: "Coletivos de arte de Porto Alegre, pintura do vidro da CCD"
-    ,
       name: ""
       presentation:
         time: "13:00"
         title: "Pausa para o almoço"
         description: "-"
     ,
-      name: ""
+      name: "Iuri Guilherme (Matehackers) e Leonardo Foletto (CCD)"
       presentation:
         time: "14:30"
-        title: "Design & ilustrações livre: possível, viável?"
+        title: "Por que licenciar sua obra em uma licença livre?"
+        description: "Creative Commons, Arte Livre, Kopimi, Re: Combo e outras licenças livres"
     ,
-      name: ""
+      name: "Fernando Flores"
       presentation:
         time: "15:00"
-        title: "Publicações & literatura: arte impressa"
+        title: "Open Design na prática"
+        description: "Open design (ou design aberto) é o design com código livre, sem patentes ou copyright, feito pra ser compartilhado e melhorado. Essa oficina vai mostrar exemplos desses projetos espalhados pelo mundo, dos mais simples aos mais complexos, e também trará exemplos práticos para serem executados."
+    ,
+      name: "Grupo ESCUTA - O som do compositor"
+      presentation:
+        time: "16:00"
+        title: "Música: criação e colaboração."
+        description: "Palco livre no Jardim Lutzemberger"
     ,
       name: ""
       presentation:
         time: "16:00"
-        title: "Cinema: potências da recriação com imagens de arquivos"
-    ,
-      name: ""
-      presentation:
-        time: "17:00"
-        title: "Música: criação livre na era digital (palco livre no Jardim Lutzemberger)"
+        title: "Encontro de zines & publicações livres"
+        description: "Na passarela do 5º andar"
     ,
       name: ""
       presentation:
@@ -125,8 +118,18 @@ module.exports =
 
     # List of Exhibitions
     exhibitions: [
-      name: ""
+      name: "Mostra de Zines/Barcamp"
       url: ""
+      description: ""
+      photo: ""
+    ,
+      name: "Instalação Mimo S.A."
+      url: ""
+      description: ""
+      photo: ""
+    ,
+      name: "Em Instantes Conectar, Colecionar, Compartilhar. Fotografias em QR Code por Leandro Selister"
+      url: "http://www.leandroselister.com.br/em_instantes_leandro_selister.htm"
       description: ""
       photo: ""
     ]

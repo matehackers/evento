@@ -27,7 +27,7 @@
               </span>
             <% end %>
             -->
-            <%= slot.presentation.title %> 
+            <%= slot.presentation.title %> </br></br> <strong><%= slot.name %></strong>
               <span class="speakers-company"><%= slot.company %></span>
             </td>
             <td class="schedule-description"><%= slot.presentation.description %></td>

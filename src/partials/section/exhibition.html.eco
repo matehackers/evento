@@ -2,7 +2,6 @@
 
 <p itemprop="description">A definir</p>
 
-<!-- 
 <p>Veja abaixo alguns projetos que estarão em exibição:</p>
 <ul class="exhibition-list">
 <% for exhibition in @exhibitions: %>
@@ -18,4 +17,3 @@
   </li>
 <% end %>
 </ul>
- -->
