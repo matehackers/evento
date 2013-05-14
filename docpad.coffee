@@ -28,7 +28,7 @@ module.exports =
       'location'
       'schedule'
       'exhibition'
-#      'speakers'
+      'speakers'
       'sponsors'
       'partners'
       'contact'
@@ -47,42 +47,70 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Casa da Cultura Digital Porto Alegre"
+      name: ["Leonardo Foleto (CCD)"]
+      photo: ["https://lh4.googleusercontent.com/--kpg-HzLtgo/ThGKBhMqD4I/AAAAAAAAGNw/sbtRqAvSf24/w492-h491-no/DSC01448.JPG"]
+      bio: [""]
+      twitter: [""]
+      company: [""]
       presentation:
         title: "Abertura: Qu'est-ce que cultura livre?"
         time: "10:00"
         description: "A cultura livre é uma extensão lógica da filosofia do Software Livre aplicada a artefatos culturais e trabalho artístico. O termo tem suas origens no título de um livro escrito em 2004 por Lawrence Lessig, considerado um dos fundadores do movimento da cultura livre. Lessig conseguiu com sucesso canalizar este movimento também para pessoas que não ocupam seu tempo escrevendo software e criou licenças especificamente pensadas para trabalhos artísticos ao invés de código de computador."
     ,
-      name: "Lucas Fialho Zawacki"
+      name: ["Lucas Fialho Zawacki"]
+      photo: ["http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/204/3a1/0b45747.jpg","https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQianJgfW2kr-V8T7caNJA6FdT9-4KG3J6L57rJa92gHw9DstXHuQ","https://lh5.googleusercontent.com/-7oiFw9DHmzA/AAAAAAAAAAI/AAAAAAAAAEY/1R01y04YOgw/s120-c/photo.jpg"]
+      bio: ["Graduado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul. Adora software livre e quer que você adore também. Paga de músico, mas não tem pinta de artista."]
+      twitter: ["lfzawacki"]
       presentation:
         title: "Criação de Música com ferramentas de Software Livre"
         time : "10:30"
         description: "Hoje a produção musical envolve uma série de produtos intermediários como: instrumentos, módulos de som, equipamentos de gravação e software especializado – software este muitas vezes proprietário. Nesta palestra serão apresentados e demonstrados um conjunto de softwares que são livres como a liberdade e permitem a produção musical com alto nível de qualidade, sendo muitas vezes tão bons quanto ou superiores a alternativas proprietárias."
     ,
-      name: "Gabriel Galli e Mariel Zasso (FISL)"
+      name: ["Coletivo Ecoaecoa"]
+      photo: ["https://dl.dropboxusercontent.com/u/2701879/uploads/logo_ecoaecoa.jpg"]
+      bio: ["É um Processo Criativo Ecosófico. Surge em 2007 como um projeto de Produção Literária com MetaReciclagem (RPG Comunativo) que gera a Editora Educadora Ecoaecoa para publicar as histórias revolucionárias criadas em periferias do RS e RJ e em 2011 torna-se um ser coletivo de Arte Integrada que relaciona Educação Popular, Software Livre, MiMoSA Griô, Copy Left, P, Economia Solidária, Web Arte, Rede Cultura Viva e Autonomia como uma proposta de Ação Transformadora Poética Permanente."]
+      twitter: [""]
       presentation:
-        time: "11:00"
-        title: "Conversa sobre edição de vídeo com ferramentas livres"
+        time: "11:30"
+        title: "RPG Comunativo: Produção Literária com MetaReciclagem"
+        description: "Nossa proposta pra produzir pro evento é uma mostra sobre o RPG Comunativo (um totem com 3 produções audio-visuais low tech sobre 3 edições do RPG Comunativo jogadas em periferias no Rio e em PoA). Esse trabalho tem 3 livretos publicados com licença copy left que vão ser expostos junto com outros da Editora Educadora Ecoaecoa. Daí vai rolar uma oficina ou apresentação sobre o jogo RPG Comunativo + MiMoSA Grio + tipos de licenças isso  pode começar como uma oficina e depois ir pro barcamp pra gente juntar as propostas e dialogar elas."
+    # ,
+    #   name: ["Gabriel Galli", "Mariel Zasso"]
+    #   photo: ["", ""]
+    #   bio: ["", ""]
+    #   twitter: ["", ""]
+    #   presentation:
+    #     time: "11:00"
+    #     title: "Conversa sobre edição de vídeo com ferramentas livres"
     ,
       name: ""
       presentation:
         time: "13:00"
         title: "Pausa para o almoço"
-        description: "-"
+        description: ""
     ,
-      name: "Iuri Guilherme (Matehackers) e Leonardo Foletto (CCD)"
+      name: ["Iuri Guilherme (Matehackers)", "Leonardo Foletto (CCD)"]
+      photo: ["http://static.wix.com/media/602449_6806dd461cb7acdc2649afeb66003929.jpg_srz_256_161_75_22_0.50_1.20_0.00_jpg_srz", "https://lh4.googleusercontent.com/--kpg-HzLtgo/ThGKBhMqD4I/AAAAAAAAGNw/sbtRqAvSf24/w492-h491-no/DSC01448.JPG"]
+      bio: ["http://iuri.blog.br/autor/", ""]
+      twitter: ["IuriGuilhermeSM", ""]
       presentation:
         time: "14:30"
         title: "Por que licenciar sua obra em uma licença livre?"
         description: "Creative Commons, Arte Livre, Kopimi, Re: Combo e outras licenças livres"
     ,
-      name: "Fernando Flores"
+      name: ["Fernando Flores"]
+      photo: ["https://lh5.googleusercontent.com/-3er-CJxHebw/ULTJZzqDBJI/AAAAAAAADgo/mRw8Azi2nrs/s491-no/DSCF4200.JPG"]
+      bio: ["Fernando Flores é Desenhista Industrial, entusiasta do Design Aberto e da Fabricação Digital. Também tem experiência em design na África do Sul e na Índia mas escolheu Porto Alegre pra fazer algo útil com isso..."]
+      twitter: [""]
       presentation:
         time: "15:00"
         title: "Open Design na prática"
         description: "Open design (ou design aberto) é o design com código livre, sem patentes ou copyright, feito pra ser compartilhado e melhorado. Essa oficina vai mostrar exemplos desses projetos espalhados pelo mundo, dos mais simples aos mais complexos, e também trará exemplos práticos para serem executados."
     ,
-      name: "Grupo ESCUTA - O som do compositor"
+      name: ["Grupo ESCUTA - O som do compositor"]
+      photo: ["http://blendup.com.br/wp-content/uploads/2012/09/cid_75BA61CEF0E44BA8B218B06E636876E7@AngeloVAIO2.png"]
+      bio: ["O que se quer no Escuta é achar os inevitáveis pontos de contato entre uma geração, estabelecer diálogos e descortinar a cena musical da cidade a partir da individualidade de cada compositor."]
+      twitter: [""]
       presentation:
         time: "16:00"
         title: "Música: criação e colaboração."
@@ -91,25 +119,21 @@ module.exports =
       name: ""
       presentation:
         time: "16:00"
-        title: "Encontro de zines & publicações livres"
-        description: "Na passarela do 5º andar"
+        title: "Encontro de zines & publicações livres (passarela do 5º andar)"
+        description: "Exposição do acervo Zinescópio e banca da Coisa Edições."
     ,
-      name: ""
+      name: ["Jamer Guterres de Mello", "Wender Zanon"]
+      twitter: ["", ""]
+      bio: ["Jamer Guterres de Mello é doutorando em Comunicação e Informação pelo PPGCOM-UFRGS, onde pesquisa as dimensões estéticas e políticas do uso de imagens de arquivo na produção audiovisual contemporânea. É mestre em Educação pelo PPGEDU-UFRGS. É integrante da equipe organizadora do festival Cine Esquema Novo, realizado em Porto Alegre, e editor do Zinescópio (biblioteca virtual de fanzines).", "Wender Zanon é canoense da Vila Mathias Velho. Cursa Jornalismo na Ulbra, mas já percebeu que fanzines, música, grindcore e filmes de baixo orçamento são bem mais atraentes do que a faculdade. Wender é tipo um quebra-galho: toca em uma banda, organiza shows, palestras, debates, mostras de cinema, o que vier. O cabelo dele é ridículo."]
+      photo: ["https://lh4.googleusercontent.com/-_L_ABxzGPSs/USupKpDPE-I/AAAAAAAAAzo/re0wxPhVCp8/w493-h491-no/2.jpg", ""]
       presentation:
-        time: "19:00"
-        title: "Encerramento"
-# 19h - Encerramento
-#      time: "9h00"
-#    ,
-#      name: [""]
-#      photo: [""]
-#      bio: [""]
-#      company: [""]
-#      twitter: [""]
-#      presentation:
-#        title: ""
-#        description: ""
-#        time: ""
+        time: "17:00"
+        title: "Bate-papo sobre fanzines, cultura independente e compartilhamento"
+    # ,
+    #   name: ""
+    #   presentation:
+    #     time: "19:00"
+    #     title: "Encerramento"
     ]
 
     # List of Sponsors
@@ -124,7 +148,7 @@ module.exports =
       photo: ""
     ,
       name: "Instalação Mimo S.A."
-      url: ""
+      url: "http://softwarelivre.org/editora-educadora-ecoaecoa"
       description: ""
       photo: ""
     ,
