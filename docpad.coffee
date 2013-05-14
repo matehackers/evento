@@ -26,9 +26,9 @@ module.exports =
     sections: [
       'about'
       'location'
-      'schedule'
-      'exhibition'
+#      'schedule'
       'speakers'
+      'exhibition'
       'sponsors'
       'partners'
       'contact'
@@ -38,20 +38,19 @@ module.exports =
     labels:
       about: "Sobre"
       location: "Localização"
+      speakers: "Agenda"
       exhibition: "Exposição"
-      speakers: "Palestrantes"
-      schedule: "Agenda"
+      # schedule: "Agenda"
       sponsors: "Patrocinadores"
       partners: "Parceiros"
       contact: "Contato"
 
     # The entire schedule
     schedule: [
-      name: ["Leonardo Foleto (CCD)"]
-      photo: ["https://lh4.googleusercontent.com/--kpg-HzLtgo/ThGKBhMqD4I/AAAAAAAAGNw/sbtRqAvSf24/w492-h491-no/DSC01448.JPG"]
-      bio: [""]
-      twitter: [""]
-      company: [""]
+      name: ["Casa da Cultura Digital", "Matehackers"]
+      photo: ["https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg", "https://si0.twimg.com/profile_images/2907204988/b904d8515606676078401a8865f5094c.jpeg"]
+      bio: ["A Casa da Cultura Digital existe para disseminar a cultura digital. O objetivo é reunir o máximo de conhecimento a partir de encontros virtuais e físicos.", "Somos um grupo de entusiastas por tecnologia e conhecimento chamado Matehackers. O nosso objetivo primário é propiciar o desenvolvimento de projetos na área de tecnologia, oferecer cursos e palestras, fomentar eventos e outras atividades que possibilitem a troca de conhecimento entre os participantes."]
+      twitter: ["", "matehackers"]
       presentation:
         title: "Abertura: Qu'est-ce que cultura livre?"
         time: "10:00"
@@ -73,7 +72,7 @@ module.exports =
       presentation:
         time: "11:30"
         title: "RPG Comunativo: Produção Literária com MetaReciclagem"
-        description: "Nossa proposta pra produzir pro evento é uma mostra sobre o RPG Comunativo (um totem com 3 produções audio-visuais low tech sobre 3 edições do RPG Comunativo jogadas em periferias no Rio e em PoA). Esse trabalho tem 3 livretos publicados com licença copy left que vão ser expostos junto com outros da Editora Educadora Ecoaecoa. Daí vai rolar uma oficina ou apresentação sobre o jogo RPG Comunativo + MiMoSA Grio + tipos de licenças isso  pode começar como uma oficina e depois ir pro barcamp pra gente juntar as propostas e dialogar elas."
+        description: "A proposta é uma oficina de RPG Comunativo - um totem com 3 produções audio-visuais low tech sobre 3 edições do RPG Comunativo jogadas em periferias no Rio e em PoA. Esse trabalho tem 3 livretos publicados com licença copyleft que vão ser expostos junto com outros da Editora Educadora Ecoaecoa. A oficina também vai abordar a questão das licenças do jogo: http://rpgcomunativo.pontaodaeco.org/"
     # ,
     #   name: ["Gabriel Galli", "Mariel Zasso"]
     #   photo: ["", ""]
@@ -91,12 +90,12 @@ module.exports =
     ,
       name: ["Iuri Guilherme (Matehackers)", "Leonardo Foletto (CCD)"]
       photo: ["http://static.wix.com/media/602449_6806dd461cb7acdc2649afeb66003929.jpg_srz_256_161_75_22_0.50_1.20_0.00_jpg_srz", "https://lh4.googleusercontent.com/--kpg-HzLtgo/ThGKBhMqD4I/AAAAAAAAGNw/sbtRqAvSf24/w492-h491-no/DSC01448.JPG"]
-      bio: ["http://iuri.blog.br/autor/", ""]
+      bio: ["http://iuri.blog.br/autor/", "Jornalista (UFSM), mestre em jornalismo (UFSC) e doutorando em comunicação e informação (UFRGS), onde pesquisa cultura hacker e comunicação. Participa dos grupos da Casa da Cultura Digital (http://www.casadaculturadigital.com.br) desde setembro de 2010, do coletivo BaixoCentro (http://baixocentro.org) desde outubro de 2011 e da CCD POA (ccdpoa.com.br) desde fevereiro de 2013. É editor do BaixaCultura (http://baixacultura.org), página criada em 2008 que trata de cultura livre e (contra) cultura digital. Escreveu “Efêmero Revisitado: conversas sobre teatro e cultura digital” (2011), livro produzido com uma bolsa Funarte de Reflexão Crítica em Mídias Digitais."]
       twitter: ["IuriGuilhermeSM", ""]
       presentation:
         time: "14:30"
         title: "Por que licenciar sua obra em uma licença livre?"
-        description: "Creative Commons, Arte Livre, Kopimi, Re: Combo e outras licenças livres"
+        description: "Aprenda o que são, como funcionam e como usar efetivamente as licensas livres. Creative Commons, Arte Livre, Kopimi, Re: Combo entre outras"
     ,
       name: ["Fernando Flores"]
       photo: ["https://lh5.googleusercontent.com/-3er-CJxHebw/ULTJZzqDBJI/AAAAAAAADgo/mRw8Azi2nrs/s491-no/DSCF4200.JPG"]
@@ -120,7 +119,7 @@ module.exports =
       presentation:
         time: "16:00"
         title: "Encontro de zines & publicações livres (passarela do 5º andar)"
-        description: "Exposição do acervo Zinescópio e banca da Coisa Edições."
+        description: "Exposição do acervo Zinescópio (https://www.facebook.com/zinescopio) e banca da Coisa Edições (https://www.facebook.com/CoisaEdicoes)"
     ,
       name: ["Jamer Guterres de Mello", "Wender Zanon"]
       twitter: ["", ""]
@@ -129,11 +128,12 @@ module.exports =
       presentation:
         time: "17:00"
         title: "Bate-papo sobre fanzines, cultura independente e compartilhamento"
-    # ,
-    #   name: ""
-    #   presentation:
-    #     time: "19:00"
-    #     title: "Encerramento"
+        description: " "
+    ,
+      name: ""
+      presentation:
+        time: "19:00"
+        title: "Encerramento"
     ]
 
     # List of Sponsors
@@ -144,7 +144,7 @@ module.exports =
     exhibitions: [
       name: "Mostra de Zines/Barcamp"
       url: ""
-      description: ""
+      description: "Exposição do acervo Zinescópio (https://www.facebook.com/zinescopio) e banca da Coisa Edições (https://www.facebook.com/CoisaEdicoes)"
       photo: ""
     ,
       name: "Instalação Mimo S.A."
@@ -156,6 +156,12 @@ module.exports =
       url: "http://www.leandroselister.com.br/em_instantes_leandro_selister.htm"
       description: ""
       photo: ""
+    ,
+      name: "Monolito/Feira do Compartilhamento"
+      url: ""
+      description: ""
+    ,
+      name: "Install Fest de Linux"
     ]
 
     # List of Partners

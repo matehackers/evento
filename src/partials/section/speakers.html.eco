@@ -10,6 +10,8 @@
         <% end %>
           <span> <%= speaker.presentation.title %></span>
       </h3>
+        <% if speaker.presentation.description: %>
+          <p class="speech-description"><%= speaker.presentation.description %></p>
       <% @ispkr = -1 %>
       <ul>
       <% for spkr in speaker.name: %>
