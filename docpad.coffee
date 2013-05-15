@@ -72,7 +72,7 @@ module.exports =
       presentation:
         time: "11:30"
         title: "RPG Comunativo: Produção Literária com MetaReciclagem"
-        description: "A proposta é uma oficina de RPG Comunativo - um totem com 3 produções audio-visuais low tech sobre 3 edições do RPG Comunativo jogadas em periferias no Rio e em PoA. Esse trabalho tem 3 livretos publicados com licença copyleft que vão ser expostos junto com outros da Editora Educadora Ecoaecoa. A oficina também vai abordar a questão das licenças do jogo: http://rpgcomunativo.pontaodaeco.org/"
+        description: "Na oficina de RPG Comunativo serão apresentados elementos do jogo através de uma mostra artística: um totem com 3 produções audio-visuais low tech sobre 3 edições do RPG Comunativo jogadas em periferias no Rio e em PoA. Esse trabalho tem 3 livretos publicados com licença copyleft que vão ser expostos junto com outros da Editora Educadora Ecoaecoa. A oficina também vai abordar a questão sobre o licenciamento livre das publicações coletivas da Editora Educadora Ecoaecoa e a criação e utilização de MiMoSA's como meio criativo para produção de conteúdos livres."
     # ,
     #   name: ["Gabriel Galli", "Mariel Zasso"]
     #   photo: ["", ""]
@@ -142,14 +142,19 @@ module.exports =
 
     # List of Exhibitions
     exhibitions: [
-      name: "Mostra de Zines/Barcamp"
+      name: "Barcamp"
+      url: ""
+      description: ""
+      photo: ""
+    ,
+      name: "Mostra de Zines"
       url: ""
       description: "Exposição do acervo Zinescópio (https://www.facebook.com/zinescopio) e banca da Coisa Edições (https://www.facebook.com/CoisaEdicoes)"
       photo: ""
     ,
-      name: "Instalação Mimo S.A."
+      name: "MiMoSA's Contadoras de histórias"
       url: "http://softwarelivre.org/editora-educadora-ecoaecoa"
-      description: ""
+      description: "Apresenação da MiMoSA Parteira e Griô e MiMoSA Poetiza Quintaninha criadas pelo Coletivo Ecoaecoa como personagens do projeto de produção literária RPG Comunativo. Pra quem ainda não ouviu falar MiMoSA quer dizer Mídia Móvel Sociedade Alternativa/Anônima e é uma net arte pra além do digital  difundida pela rede.MetaReciclagem.org"
       photo: ""
     ,
       name: "Em Instantes Conectar, Colecionar, Compartilhar. Fotografias em QR Code por Leandro Selister"
