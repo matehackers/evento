@@ -130,6 +130,15 @@ module.exports =
         title: "Bate-papo sobre fanzines, cultura independente e compartilhamento"
         description: " "
     ,
+      name: ["Casa da Cultura Digital", "Matehackers"]
+      photo: ["https://docs.google.com/presentation/pubimage?id=1x7UwF-REGpnqaYS-ZuLCECy2PkQ6TmuzubAulIg6kHA&image_id=1NEW6HbbDi-Lm-aTbO3eOxHfV4bmurPOODjt0lfg", "https://si0.twimg.com/profile_images/2907204988/b904d8515606676078401a8865f5094c.jpeg"]
+      bio: ["A Casa da Cultura Digital existe para disseminar a cultura digital. O objetivo é reunir o máximo de conhecimento a partir de encontros virtuais e físicos.", "Somos um grupo de entusiastas por tecnologia e conhecimento chamado Matehackers. O nosso objetivo primário é propiciar o desenvolvimento de projetos na área de tecnologia, oferecer cursos e palestras, fomentar eventos e outras atividades que possibilitem a troca de conhecimento entre os participantes."]
+      twitter: ["", "matehackers"]
+      presentation:
+        time: "18h"
+        title: "Pós-TV - Cultura livre"
+        description: "Como encerramento do evento, vai ser realizado um programa da Pós-TV (http://www.postv.org/) - rede de streaming ligado ao Circuito Fora do Eixo que realiza vários programas ao vivo (debates, shows, conversas, etc). Será um debate de desfecho sobre cultura livre com os participantes do evento."
+    ,
       name: ""
       presentation:
         time: "19:00"
