@@ -22,7 +22,7 @@
               <img class="photo" src="<%= speaker.photo[@ispkr] %>" alt="<%= speaker.name[@ispkr] %>" itemprop="image">
             </span>
           <% end %>
-          <h3 class="speakers-name"><%= spkr %> <a href="http://www.twitter.com/<%= speaker.twitter[@ispkr] %>" title="Twitter @<%= speaker.twitter[@ispkr] %>">@<%= speaker.twitter[@ispkr] %></a></h3>
+          <h3 class="speakers-name"><%= spkr %></h3>
           <p class="speakers-bio"><%= speaker.bio[@ispkr] %></p>
         </li>
       <% end %>

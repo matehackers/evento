@@ -113,7 +113,7 @@ module.exports =
       presentation:
         time: "16:00"
         title: "Música: criação e colaboração."
-        description: "Palco livre no Jardim Lutzemberger"
+        description: "Através de um palco livre, os músicos Tiago Rubens, Leo Aprato, João Ortácio e quem quiser mais chegar, discutirão entre uma música e outra temas como composição coletiva, licenças livres, apropriação de textos de terceiros em suas composições e novos formatos de distribuição e mercado. Músicos: Tiago Rubens, Leo Aprato, João Ortácio são compositores com carreiras expressivas no cenário rio-grandense, integrantes também do ESCUTA - O som do Compositor que está em sua terceira temporada na Casa de Teatro - Porto Alegre."
     ,
       name: ""
       presentation:
