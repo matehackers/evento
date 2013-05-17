@@ -153,29 +153,32 @@ module.exports =
     exhibitions: [
       name: "Barcamp"
       url: ""
-      description: ""
-      photo: ""
+      description: "Espaço para desconferências e falas abertas. Umas cadeiras, uma mesa, energia e o que você quiser falar."
+      photo: "http://www.efecade.com.br/wp-content/uploads/2013/01/REFLEXOES-VOCE.jpg"
     ,
       name: "Mostra de Zines"
       url: ""
       description: "Exposição do acervo Zinescópio (https://www.facebook.com/zinescopio) e banca da Coisa Edições (https://www.facebook.com/CoisaEdicoes)"
-      photo: ""
+      photo: "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/249143_512838168752219_77333982_n.jpg"
     ,
       name: "MiMoSA's Contadoras de histórias"
       url: "http://softwarelivre.org/editora-educadora-ecoaecoa"
-      description: "Apresenação da MiMoSA Parteira e Griô e MiMoSA Poetiza Quintaninha criadas pelo Coletivo Ecoaecoa como personagens do projeto de produção literária RPG Comunativo. Pra quem ainda não ouviu falar MiMoSA quer dizer Mídia Móvel Sociedade Alternativa/Anônima e é uma net arte pra além do digital  difundida pela rede.MetaReciclagem.org"
-      photo: ""
+      description: "Apresentação da MiMoSA Parteira e Griô e MiMoSA Poetiza Quintaninha criadas pelo Coletivo Ecoaecoa como personagens do projeto de produção literária RPG Comunativo. Pra quem ainda não ouviu falar MiMoSA quer dizer Mídia Móvel Sociedade Alternativa/Anônima e é uma net arte pra além do digital  difundida pela rede.MetaReciclagem.org"
+      photo: "http://rpgcomunativo.pontaodaeco.org/wp-content/uploads/2011/04/DSC00173-384x180.jpg"
     ,
       name: "Em Instantes Conectar, Colecionar, Compartilhar. Fotografias em QR Code por Leandro Selister"
       url: "http://www.leandroselister.com.br/em_instantes_leandro_selister.htm"
-      description: ""
-      photo: ""
+      description: "Durante 6 meses, QR Codes estarão nas 19 estações do Trensurb e serão trocados todas as terças-feiras. Com a ajuda de um leitor de QR Codes, as pessoas poderão acessar fotos tiradas pelo artista nas cidades que compõem o trajeto do Trensurb. "
+      photo: "http://goo.gl/rAIzM.qr"
     ,
       name: "Monolito/Feira do Compartilhamento"
-      url: ""
-      description: ""
+      photo: "https://dl.dropboxusercontent.com/u/2701879/uploads/sharing.png"
+      description: "Uma feira de troca de arquivos, a partir das 12h até o fim do dia. Uma estrutura montada com um HD externo e um HUB com entradas USB facilitarão a troca de arquivos digitais presencialmente: basta levar seu HD, Notebook, pendrive e escolher o arquivo a compartilhar ou copiar. A intenção é poder reproduzir o ambiente de troca de arquivos comum na rede também presencialmente."
     ,
       name: "Install Fest de Linux"
+      description: "Traga seus laptops, computadores, gadgets e ganhe suporte técnico e psicológico para a instalação de sistemas operacionais e programas livres!"
+      photo: "https://dl.dropboxusercontent.com/u/2701879/uploads/linux-icon.png"
+
     ]
 
     # List of Partners

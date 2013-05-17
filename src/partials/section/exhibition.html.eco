@@ -1,7 +1,5 @@
 <h2 class="section-title"><%= @labels['exhibition'] %></h2>
 
-<p itemprop="description">A definir</p>
-
 <p>Veja abaixo alguns projetos que estarão em exibição:</p>
 <ul class="exhibition-list">
 <% for exhibition in @exhibitions: %>
